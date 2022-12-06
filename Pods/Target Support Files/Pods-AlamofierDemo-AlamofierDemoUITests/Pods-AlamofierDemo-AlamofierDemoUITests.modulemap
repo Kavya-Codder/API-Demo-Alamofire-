@@ -1,0 +1,6 @@
+framework module Pods_AlamofierDemo_AlamofierDemoUITests {
+  umbrella header "Pods-AlamofierDemo-AlamofierDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
